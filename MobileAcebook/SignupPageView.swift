@@ -23,7 +23,7 @@ struct SignupPageView: View {
                     .edgesIgnoringSafeArea(/*@START_MENU_TOKEN@*/.all/*@END_MENU_TOKEN@*/)
                 VStack {
                     Text("Create Account")
-                        .font(.largeTitle)
+                        .bold().font(.system(size: 46, weight: .semibold, design: .rounded))
                         .foregroundColor(Color("Gunmetal"))
                         .multilineTextAlignment(.center)
                     
@@ -41,26 +41,35 @@ struct SignupPageView: View {
                     VStack {
                         VStack{
                             TextField("🔮 Enter your email address", text: $UserEmail)
-                                .padding() 
+                                .padding(50)
+                                .padding(.top, 50)
+                                .padding(.bottom, 30)
                                 .textFieldStyle(RoundedBorderTextFieldStyle())
-                                .frame(width: 350)
+                                .frame(width: 350, height: 50)
                                 .textInputAutocapitalization(.never)
                             SecureField("🧹 Enter your password", text: $UserPassword)
-                                .padding()
+                                .padding(50)
+                                .padding(.top, 20)
+                                .padding(.bottom)
                                 .textFieldStyle(RoundedBorderTextFieldStyle())
-                                .frame(width: 350)
+                                .frame(width: 350, height: 50)
                                 .textInputAutocapitalization(.never)
                             TextField("✨ Enter your username", text: $UserUsername)
-                                .padding()
+                                .padding(50)
+                                .padding(.top, 20)
+                                .padding(.bottom, 35)
                                 .textFieldStyle(RoundedBorderTextFieldStyle())
-                                .frame(width: 350)
+                                .frame(width: 350, height: 50)
                                 .textInputAutocapitalization(.never)
                             TextField("🧙‍♂️ Profile Picture", text: $UserPicture)
-                                .padding()
+                                .padding(50)
+                                .padding(.top, 10)
+                                .padding(.bottom, 40)
                                 .textFieldStyle(RoundedBorderTextFieldStyle())
-                                .frame(width: 350)
+                                .frame(width: 350, height: 50)
                         }.background(Color("Magenta"))
                             .cornerRadius(20)
+                        
                         
                             
                         
