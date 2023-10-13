@@ -19,7 +19,7 @@ struct PostsPageView: View {
                     Image("mage-hat-80s")
                         .resizable()
                         .scaledToFit()
-                        .frame(width: 100.0, height: 100)
+                        .frame(width: 50.0, height: 50)
                         .accessibilityIdentifier("MageBook-logo")
                     //Spacer()
                     Text("Your Magic Feed")
