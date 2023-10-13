@@ -138,7 +138,7 @@ struct PostsPageView: View {
                         )
                         .background(.white)
                         .cornerRadius(30)
-                    Text("Mystra snapped this lol!")
+                    Text("Mystra snapped this lol")
                         .fontWeight(.medium)
                         .font(.title3)
                         .foregroundColor(.black)
