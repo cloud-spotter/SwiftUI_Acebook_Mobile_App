@@ -1,4 +1,4 @@
-# Magebook - Team Mage 🌊
+# Team Mage 🌊 - Magebook
 
 For this project, we were tasked with building an iOS frontend for an existing backend to an 'acebook' social media application (a facebook imitation platform originally built as a create-react-app with the MERN stack). We had just under a week to build the interface using Swift and SwiftUI.
 
