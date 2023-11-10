@@ -2,14 +2,14 @@
 
 For this project, we were tasked with building an iOS frontend for an existing backend to an 'acebook' social media application (a facebook imitation platform originally built as a create-react-app with the MERN stack). We had just under a week to build the interface using Swift and SwiftUI.
 
-## 🧙🏻✨ Team Mage
+## 🧙🏻 Team Mage
 * **[Ellie Priestley](https://github.com/elliepriestley)**
 * **[Alex Wilson](https://github.com/APWilson97)**
 * **[Emily Cowen](https://github.com/Emily-RC)**
 * **[Dan Gibson](https://github.com/spcmarine)**
 * **[Cloud Spotter](https://github.com/cloud-spotter)**
 
-## 🪄 Tech stack
+## ✨ Tech stack
 
 Frontend:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
@@ -26,7 +26,8 @@ Backend:
 
 We used Trello as a project managament tool during this project. You can find a link to the board here: https://trello.com/b/S0wx3eU5/team-mage-swift-acebook-engineering-project
 
-# SwiftUI Project (Makers Task Description)
+# SwiftUI Project 
+## Makers Task Description
 
 In this project, you will create a new SwiftUI app that integrates with
 [this Acebook backend](https://github.com/makersacademy/Mobile-Acebook-backend).
