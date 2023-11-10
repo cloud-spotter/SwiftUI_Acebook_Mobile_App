@@ -1,6 +1,34 @@
-# SwiftUI Project
+# Magebook - Team Mage 🌊
 
-As part of this project, you will create a new SwiftUI app that integrates with
+For this project, we were tasked with building an iOS frontend for an existing backend to an 'acebook' social media application (a facebook imitation platform originally built as a create-react-app with the MERN stack). We had just under a week to build the interface using Swift and SwiftUI.
+
+## 🤝 Our Team
+* **[Ellie Priestley](https://github.com/elliepriestley)**
+* **[Alex Wilson](https://github.com/APWilson97)**
+* **[Emily Cowen](https://github.com/Emily-RC)**
+* **[Dan Gibson](https://github.com/spcmarine)**
+* **[Cloud Spotter](https://github.com/cloud-spotter)**
+
+## 🚀 Tech stack
+
+Frontend:
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+SwiftUI
+
+
+Backend:
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+
+## Additional Resources
+
+We used Trello as a project managament tool during this project. You can find a link to the board here: https://trello.com/b/S0wx3eU5/team-mage-swift-acebook-engineering-project
+
+# SwiftUI Project (Makers Task Description)
+
+In this project, you will create a new SwiftUI app that integrates with
 [this Acebook backend](https://github.com/makersacademy/Mobile-Acebook-backend).
 
 
@@ -236,14 +264,3 @@ what is happening in the backend and grow your understanding of the codebase.
 - [Hacking with Swift](https://www.hackingwithswift.com/)
 - [Stop using MVVM for SwiftUI](https://developer.apple.com/forums/thread/699003)
 - [MVC vs MVVM on iOS: Key Differences with Swift Examples](https://www.netguru.com/blog/mvc-vs-mvvm-on-ios-differences-with-examples)
-
-
-<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
-
----
-
-**How was this resource?**  
-[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=makersacademy%2Fswiftui-engineering-project&prefill_File=README.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=makersacademy%2Fswiftui-engineering-project&prefill_File=README.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=makersacademy%2Fswiftui-engineering-project&prefill_File=README.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=makersacademy%2Fswiftui-engineering-project&prefill_File=README.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=makersacademy%2Fswiftui-engineering-project&prefill_File=README.md&prefill_Sentiment=😀)  
-Click an emoji to tell us.
-
-<!-- END GENERATED SECTION DO NOT EDIT -->
