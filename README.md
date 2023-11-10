@@ -24,7 +24,9 @@ Backend:
 
 ## 🔮 Additional Resources
 
-We used Trello as a project managament tool during this project. You can find a link to the board here: https://trello.com/b/S0wx3eU5/team-mage-swift-acebook-engineering-project
+We used Trello as a project managament tool during this project. You can find a link to the board [here].
+
+[here-link]: https://trello.com/b/S0wx3eU5/team-mage-swift-acebook-engineering-project
 
 # SwiftUI Project 
 ## Makers Task Description
