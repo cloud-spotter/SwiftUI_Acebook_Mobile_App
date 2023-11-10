@@ -9,7 +9,7 @@ For this project, we were tasked with building an iOS frontend for an existing b
 * **[Dan Gibson](https://github.com/spcmarine)**
 * **[Cloud Spotter](https://github.com/cloud-spotter)**
 
-## ![Magehat logo](<MobileAcebook/Assets.xcassets/mage-hat-80s.imageset/witch-hat (1).png>) Tech stack
+## ✨ Tech stack
 
 Frontend:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
